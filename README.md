@@ -1,2 +1,2 @@
 # 2.5D-Side-Scroller
-A 2.5D game prototype created for a school project
+A 2.5D game prototype made in Unreal engine 5 for a school project
